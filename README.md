@@ -36,7 +36,7 @@ This repository is organized by semesters. Each semester folder contains specifi
 - **Name:** Nahid Mahmud
 - **Institution:** Varendra University
 - **Field:** CSE
-- **GitHub:** [Your GitHub Profile Link]
+- **GitHub:** [https://github.com/Nahid-mahmud555]
 
 ---
 *“Success is a journey, not a destination. Keeping track of that journey is part of the success.”*
